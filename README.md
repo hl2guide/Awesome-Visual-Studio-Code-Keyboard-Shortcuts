@@ -4,8 +4,6 @@
 
 _Ref: awesomesam didierfrickin awesome_
 
-[Website](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Keyboard-Shortcuts/)
-
 These are a list of the awesome must-use keyboard shortcuts, be more productive in Visual Studio Code :D
 
 _All are defaults and unchanged._
