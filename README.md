@@ -14,57 +14,57 @@ _All are defaults and unchanged._
 
 ### File
 
-New File: Ctrl+N
-New Window: Ctrl+Shift+N
-Open File: Ctrl+O
-Save File: Ctrl+S
-Save File As: Ctrl+Shift+S
-Save All: Ctrl+K S (sequenced)
-Settings: Ctrl+`
-Close Editor: Ctrl+F4
-Close Workspace: Ctrl+K F (sequenced)
+New File: Ctrl+N\
+New Window: Ctrl+Shift+N\
+Open File: Ctrl+O\
+Save File: Ctrl+S\
+Save File As: Ctrl+Shift+S\
+Save All: Ctrl+K S (sequenced)\
+Settings: Ctrl+\`\
+Close Editor: Ctrl+F4\
+Close Workspace: Ctrl+K F (sequenced)\
 Close Window: Ctrl+W
 
 ### Edit
 
-Undo: Ctrl+Z
-Redo: Ctrl+Y
-Cut: Ctrl+X
-Copy: Ctrl+C
-Paste: Ctrl+V
-Find: Ctrl+F
-Replace: Ctrl+H
+Undo: Ctrl+Z\
+Redo: Ctrl+Y\
+Cut: Ctrl+X\
+Copy: Ctrl+C\
+Paste: Ctrl+V\
+Find: Ctrl+F\
+Replace: Ctrl+H\
 Toggle Line Comment: Ctrl+/
 
 ### Selection
 
-Select All: Ctrl+A
-Copy Line Up: Shift+Alt+UpArrow
-Copy Line Down: Shift+Alt+DownArrow
-Move Line Up: Alt+UpArrow
+Select All: Ctrl+A\
+Copy Line Up: Shift+Alt+UpArrow\
+Copy Line Down: Shift+Alt+DownArrow\
+Move Line Up: Alt+UpArrow\
 Move Line Down: Alt+DownArrow
 
 ### View
 
-Toggle Word Wrap: Alt+Z
-Toggle Terminal: Ctrl+`
-Toggle Fullscreen: F11
-Toggle Zen Mode: Ctrl+K Z (sequenced)
-Toggle Sidebar: Ctrl+B
-Toggle Panel: Ctrl+J
-Zoom UI In: Ctrl+=
-Zoom UI Out: Ctrl+-
+Toggle Word Wrap: Alt+Z\
+Toggle Terminal: Ctrl+\`\
+Toggle Fullscreen: F11\
+Toggle Zen Mode: Ctrl+K Z (sequenced)\
+Toggle Sidebar: Ctrl+B\
+Toggle Panel: Ctrl+J\
+Zoom UI In: Ctrl+=\
+Zoom UI Out: Ctrl+-\
 Reset Zoom: Ctrl+NumPad0
 
 ### Sidebar Tabs
 
-Explorer: Ctrl+Shift+E
-Search: Ctrl+Shift+F
-Source Control: Ctrl+Shift+G
-Debug: Ctrl+Shift+D
+Explorer: Ctrl+Shift+E\
+Search: Ctrl+Shift+F\
+Source Control: Ctrl+Shift+G\
+Debug: Ctrl+Shift+D\
 Extensions: Ctrl+Shift+X
 
 ### Code Editor
 
-Zoom UI In: Ctrl+MouseWheelUp
+Zoom UI In: Ctrl+MouseWheelUp\
 Zoom UI Out: Ctrl+MouseWheelDown
