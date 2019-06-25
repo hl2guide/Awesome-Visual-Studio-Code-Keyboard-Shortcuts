@@ -52,7 +52,7 @@ Toggle Sidebar: Ctrl+B\
 Toggle Panel: Ctrl+J\
 Zoom UI In: Ctrl+=\
 Zoom UI Out: Ctrl+-\
-Reset Zoom: Ctrl+NumPad0
+Reset Zoom: Ctrl+NumPad0\
 Command Palette: Ctrl+Shift+P
 
 ### Sidebar Tabs
