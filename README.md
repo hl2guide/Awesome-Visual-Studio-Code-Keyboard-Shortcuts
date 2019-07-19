@@ -66,4 +66,7 @@ Extensions: Ctrl+Shift+X
 ### Code Editor
 
 Zoom In: Ctrl+MouseWheelUp\
-Zoom Out: Ctrl+MouseWheelDown
+Zoom Out: Ctrl+MouseWheelDown\
+Scroll Up: Ctrl+Up\
+Scroll Down: Ctrl+Down
+
