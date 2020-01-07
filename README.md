@@ -8,7 +8,7 @@ These are a list of the awesome must-use keyboard shortcuts, be more productive 
 
 _All are defaults and unchanged._
 
-## Keyboard Shortcuts
+## Keyboard Shortcuts ⌨️
 
 ### File
 
