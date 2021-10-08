@@ -21,6 +21,7 @@ Close Window: Ctrl+W
 
 ### Edit
 
+Rename Refactor: F2\
 Undo: Ctrl+Z\
 Redo: Ctrl+Y\
 Cut: Ctrl+X\
@@ -29,7 +30,6 @@ Paste: Ctrl+V\
 Find: Ctrl+F\
 Replace: Ctrl+H\
 Toggle Line Comment: Ctrl+/
-Rename Refactor: F2
 
 ### Selection
 
