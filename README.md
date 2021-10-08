@@ -1,9 +1,5 @@
 # Awesome Visual Studio Code Keyboard Shortcuts
 
-![awesome](https://media0.giphy.com/media/xTiTnBMEz7zAKs57LG/giphy.gif "Awesome! - awesomesam didierfrickin awesome")
-
-_Ref: awesomesam didierfrickin awesome_
-
 These are a list of the awesome must-use keyboard shortcuts, be more productive in Visual Studio Code :D
 
 _All are defaults and unchanged._
@@ -33,6 +29,7 @@ Paste: Ctrl+V\
 Find: Ctrl+F\
 Replace: Ctrl+H\
 Toggle Line Comment: Ctrl+/
+Rename Refactor: F2
 
 ### Selection
 
