@@ -1,5 +1,11 @@
 # Awesome Visual Studio Code Keyboard Shortcuts
 
+Version: 1.0.0
+
+Last Updated: 2021-11-29 12:42:32PM
+
+## Intro
+
 These are a list of the awesome must-use keyboard shortcuts, be more productive in Visual Studio Code :D
 
 _All are defaults and unchanged._
