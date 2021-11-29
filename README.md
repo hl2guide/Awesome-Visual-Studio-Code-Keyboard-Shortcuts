@@ -1,8 +1,8 @@
 # Awesome Visual Studio Code Keyboard Shortcuts
 
-Version: 1.0.0
+Version: 1.0.1
 
-Last Updated: 2021-11-29 12:42:32PM
+Last Updated: 2021-11-29 06:41:23PM
 
 ## Intro
 
@@ -14,62 +14,61 @@ _All are defaults and unchanged._
 
 ### File
 
-New File: Ctrl+N\
-New Window: Ctrl+Shift+N\
-Open File: Ctrl+O\
-Save File: Ctrl+S\
-Save File As: Ctrl+Shift+S\
-Save All: Ctrl+K S (sequenced)\
-Settings: Ctrl+\`\
-Close Editor: Ctrl+F4\
-Close Workspace: Ctrl+K F (sequenced)\
-Close Window: Ctrl+W
+New File: <kbd>Ctrl</kbd> + N\
+New Window: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + N\
+Open File: <kbd>Ctrl</kbd> + O\
+Save File: <kbd>Ctrl</kbd> + S\
+Save File As: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + S\
+Save All: <kbd>Ctrl</kbd> + K S (sequenced)\
+Settings: <kbd>Ctrl</kbd> + \`\
+Close Editor: <kbd>Ctrl</kbd> + <kbd>F4</kbd>\
+Close Workspace: <kbd>Ctrl</kbd> + K F (sequenced)\
+Close Window: <kbd>Ctrl</kbd> + W
 
 ### Edit
 
-Rename Refactor: F2\
-Undo: Ctrl+Z\
-Redo: Ctrl+Y\
-Cut: Ctrl+X\
-Copy: Ctrl+C\
-Paste: Ctrl+V\
-Find: Ctrl+F\
-Replace: Ctrl+H\
-Toggle Line Comment: Ctrl+/
+Rename Refactor: <kbd>F2</kbd>\
+Undo: <kbd>Ctrl</kbd> + Z\
+Redo: <kbd>Ctrl</kbd> + Y\
+Cut: <kbd>Ctrl</kbd> + X\
+Copy: <kbd>Ctrl</kbd> + C\
+Paste: <kbd>Ctrl</kbd> + V\
+Find: <kbd>Ctrl</kbd> + F\
+Replace: <kbd>Ctrl</kbd> + H\
+Toggle Line Comment: <kbd>Ctrl</kbd> + /
 
 ### Selection
 
-Select All: Ctrl+A\
-Copy Line Up: Shift+Alt+UpArrow\
-Copy Line Down: Shift+Alt+DownArrow\
-Move Line Up: Alt+UpArrow\
-Move Line Down: Alt+DownArrow
+Select All: <kbd>Ctrl</kbd> + A\
+Copy Line Up: <kbd>Shift</kbd> + <kbd>Alt</kbd> + UpArrow\
+Copy Line Down: <kbd>Shift</kbd> + <kbd>Alt</kbd> + DownArrow\
+Move Line Up: <kbd>Alt</kbd> + UpArrow\
+Move Line Down: <kbd>Alt</kbd> + DownArrow
 
 ### View
 
-Toggle Word Wrap: Alt+Z\
-Toggle Terminal: Ctrl+\`\
+Toggle Word Wrap: <kbd>Alt</kbd> + Z\
+Toggle Terminal: <kbd>Ctrl</kbd> + \`\
 Toggle Fullscreen: F11\
-Toggle Zen Mode: Ctrl+K Z (sequenced)\
-Toggle Sidebar: Ctrl+B\
-Toggle Panel: Ctrl+J\
-Zoom UI In: Ctrl+=\
-Zoom UI Out: Ctrl+-\
-Reset Zoom: Ctrl+NumPad0\
-Command Palette: Ctrl+Shift+P
+Toggle Zen Mode: <kbd>Ctrl</kbd> + K Z (sequenced)\
+Toggle Sidebar: <kbd>Ctrl</kbd> + B\
+Toggle Panel: <kbd>Ctrl</kbd> + J\
+Zoom UI In: <kbd>Ctrl</kbd> + =\
+Zoom UI Out: <kbd>Ctrl</kbd> + -\
+Reset Zoom: <kbd>Ctrl</kbd> + <kbd>NumPad0</kbd>\
+Command Palette: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + P
 
 ### Sidebar Tabs
 
-Explorer: Ctrl+Shift+E\
-Search: Ctrl+Shift+F\
-Source Control: Ctrl+Shift+G\
-Debug: Ctrl+Shift+D\
-Extensions: Ctrl+Shift+X
+Explorer: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + E\
+Search: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + F\
+Source Control: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + G\
+Debug: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + D\
+Extensions: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + X
 
 ### Code Editor
 
-Zoom In: Ctrl+MouseWheelUp\
-Zoom Out: Ctrl+MouseWheelDown\
-Scroll Up: Ctrl+Up\
-Scroll Down: Ctrl+Down
-
+Zoom In: <kbd>Ctrl</kbd> + MouseWheelUp\
+Zoom Out: <kbd>Ctrl</kbd> + MouseWheelDown\
+Scroll Up: <kbd>Ctrl</kbd> + <kbd>Up</kbd>\
+Scroll Down: <kbd>Ctrl</kbd> + <kbd>Down</kbd>
