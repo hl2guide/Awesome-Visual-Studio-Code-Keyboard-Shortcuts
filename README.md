@@ -14,61 +14,61 @@ _All are defaults and unchanged._
 
 ### File
 
-New File: <kbd>Ctrl</kbd> + N\
-New Window: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + N\
-Open File: <kbd>Ctrl</kbd> + O\
-Save File: <kbd>Ctrl</kbd> + S\
-Save File As: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + S\
-Save All: <kbd>Ctrl</kbd> + K S (sequenced)\
-Settings: <kbd>Ctrl</kbd> + \`\
+New File: <kbd>Ctrl</kbd> + <kbd>N</kbd>\
+New Window: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>\
+Open File: <kbd>Ctrl</kbd> + <kbd>O</kbd>\
+Save File: <kbd>Ctrl</kbd> + <kbd>S</kbd>\
+Save File As: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>\
+Save All: <kbd>Ctrl</kbd> + <kbd>K</kbd> <kbd>S</kbd> (sequenced)\
+Settings: <kbd>Ctrl</kbd> + <kbd>\`</kbd>\
 Close Editor: <kbd>Ctrl</kbd> + <kbd>F4</kbd>\
-Close Workspace: <kbd>Ctrl</kbd> + K F (sequenced)\
-Close Window: <kbd>Ctrl</kbd> + W
+Close Workspace: <kbd>Ctrl</kbd> + <kbd>K</kbd> <kbd>F</kbd> (sequenced)\
+Close Window: <kbd>Ctrl</kbd> + <kbd>W</kbd>
 
 ### Edit
 
 Rename Refactor: <kbd>F2</kbd>\
-Undo: <kbd>Ctrl</kbd> + Z\
-Redo: <kbd>Ctrl</kbd> + Y\
-Cut: <kbd>Ctrl</kbd> + X\
-Copy: <kbd>Ctrl</kbd> + C\
-Paste: <kbd>Ctrl</kbd> + V\
-Find: <kbd>Ctrl</kbd> + F\
-Replace: <kbd>Ctrl</kbd> + H\
-Toggle Line Comment: <kbd>Ctrl</kbd> + /
+Undo: <kbd>Ctrl</kbd> + <kbd>Z</kbd>\
+Redo: <kbd>Ctrl</kbd> + <kbd>Y</kbd>\
+Cut: <kbd>Ctrl</kbd> + <kbd>X</kbd>\
+Copy: <kbd>Ctrl</kbd> + <kbd>C</kbd>\
+Paste: <kbd>Ctrl</kbd> + <kbd>V</kbd>\
+Find: <kbd>Ctrl</kbd> + <kbd>F</kbd>\
+Replace: <kbd>Ctrl</kbd> + <kbd>H</kbd>\
+Toggle Line Comment: <kbd>Ctrl</kbd> + <kbd>/</kbd>
 
 ### Selection
 
-Select All: <kbd>Ctrl</kbd> + A\
-Copy Line Up: <kbd>Shift</kbd> + <kbd>Alt</kbd> + UpArrow\
-Copy Line Down: <kbd>Shift</kbd> + <kbd>Alt</kbd> + DownArrow\
-Move Line Up: <kbd>Alt</kbd> + UpArrow\
-Move Line Down: <kbd>Alt</kbd> + DownArrow
+Select All: <kbd>Ctrl</kbd> + <kbd>A</kbd>\
+Copy Line Up: <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>UpArrow</kbd>\
+Copy Line Down: <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>DownArrow</kbd>\
+Move Line Up: <kbd>Alt</kbd> + <kbd>UpArrow</kbd>\
+Move Line Down: <kbd>Alt</kbd> + <kbd>DownArrow</kbd>
 
 ### View
 
-Toggle Word Wrap: <kbd>Alt</kbd> + Z\
-Toggle Terminal: <kbd>Ctrl</kbd> + \`\
+Toggle Word Wrap: <kbd>Alt</kbd> + <kbd>Z</kbd>\
+Toggle Terminal: <kbd>Ctrl</kbd> + <kbd>\`</kbd>\
 Toggle Fullscreen: F11\
-Toggle Zen Mode: <kbd>Ctrl</kbd> + K Z (sequenced)\
-Toggle Sidebar: <kbd>Ctrl</kbd> + B\
-Toggle Panel: <kbd>Ctrl</kbd> + J\
-Zoom UI In: <kbd>Ctrl</kbd> + =\
-Zoom UI Out: <kbd>Ctrl</kbd> + -\
+Toggle Zen Mode: <kbd>Ctrl</kbd> + <kbd>K</kbd> <kbd>Z</kbd> (sequenced)\
+Toggle Sidebar: <kbd>Ctrl</kbd> + <kbd>B</kbd>\
+Toggle Panel: <kbd>Ctrl</kbd> + <kbd>J</kbd>\
+Zoom UI In: <kbd>Ctrl</kbd> + <kbd>=</kbd>\
+Zoom UI Out: <kbd>Ctrl</kbd> + <kbd>-</kbd>\
 Reset Zoom: <kbd>Ctrl</kbd> + <kbd>NumPad0</kbd>\
-Command Palette: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + P
+Command Palette: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 
 ### Sidebar Tabs
 
-Explorer: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + E\
-Search: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + F\
-Source Control: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + G\
-Debug: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + D\
-Extensions: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + X
+Explorer: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>\
+Search: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>\
+Source Control: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>\
+Debug: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>\
+Extensions: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>X</kbd>
 
 ### Code Editor
 
-Zoom In: <kbd>Ctrl</kbd> + MouseWheelUp\
-Zoom Out: <kbd>Ctrl</kbd> + MouseWheelDown\
+Zoom In: <kbd>Ctrl</kbd> + <kbd>MouseWheelUp</kbd>\
+Zoom Out: <kbd>Ctrl</kbd> + <kbd>MouseWheelDown</kbd>\
 Scroll Up: <kbd>Ctrl</kbd> + <kbd>Up</kbd>\
 Scroll Down: <kbd>Ctrl</kbd> + <kbd>Down</kbd>
